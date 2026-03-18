@@ -1,7 +1,7 @@
 # 🧠 Natural Language Processing — Tasks & Practicals
 
 > Travaux pratiques et implémentations réalisés dans le cadre du module 
-> **Natural Language Processing (NLP)** durant ma formation en Intelligence Artificielle.
+> **Natural Language Processing (NLP)** durant ma formation en Data Engineering .
 
 ---
 
@@ -10,7 +10,7 @@
 ### TP1 — 
 | Fichier | Description |
 |---------|-------------|
-| `TP1_....ipynb` | ... |
+| `TP1__spaCy&NLTKbase.ipynb` | Utilisations de base des bibliothèques spaCy and NLTK |
 
 ### TP2 — Distance d'Édition & Autocorrection Orthographique
 | Fichier | Description |
